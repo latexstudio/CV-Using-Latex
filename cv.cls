@@ -1,12 +1,11 @@
 % Created by Murat Can Karacabey
-% this is inspired by Michael Pollind's Awesome CV 
-% Created from scratch as a much simpler alternative to it to actually learn LaTeX.
-% Might be interpreted as an easier-to-edit or easier-to-understand-what-is-going-on version of it.
-\author{Murat Can Karacabey}
-\RequirePackage[dvipsnames]{xcolor} % moved here I guess article class causes option clash with xcolor if used after loading the class
+% This is inspired by Michael Pollind's Awesome CV
+\author{Abhijit Dutta}
+
+\RequirePackage[dvipsnames]{xcolor}
 \LoadClass[11pt]{article}
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{muratcan_cv}[2020/04/15 Muratcan CV Class]
+\ProvidesClass{abhijit_cv}[2020/08/19 Abhijit Dutta CV Class]
 \RequirePackage[sfdefault]{noto}
 \RequirePackage{etoolbox}
 \RequirePackage{pgffor}
@@ -100,7 +99,7 @@
 }
 
 \newcommand\coverlettersubview{
-\begin{tabular}{>{\scshape \bfseries \color{\@themecolor}}l  >{\small }l}
+\begin{tabular}{>{\scshape \bfseries \color{\@themecolor}}l  >{\small }l}
 Company: & \@companyname \\
 Position: & \@claimedposition \\
 \end{tabular}
@@ -195,6 +194,4 @@ Position: & \@claimedposition \\
 \newcommand\createfootnote{%
   \renewcommand{\footnotesize}{\fontsize{7pt}{11pt}\selectfont}
     \renewcommand\footnoterule{\rule{0.3\linewidth}{0.5pt}}
-    \let\thefootnote\relax\footnote{\today\ / \href{https://github.com/muratcankaracabey/latex_cv}{source code}}}
-
-
+    \let\thefootnote\relax\footnote{\today\ / \href{https://github.com/whatsupabhijit/latex_cv}{source code}}}
