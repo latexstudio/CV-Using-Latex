@@ -41,3 +41,6 @@ https://github.com/dnl-blkv/mcdowell-cv
 ### Warning
 - For Mac users, If you use TexShop, you need to locate the AwesomeFont in your file system and load to your system. It is most probably under ```/usr/local/texlive/2019/texmf-dist/fonts/opentype/public```. Just locate it and double-click install. Then you are good to go.
 
+
+
+
