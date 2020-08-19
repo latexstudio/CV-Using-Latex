@@ -7,31 +7,22 @@
 </h1>
 
 <p align="center">
-  LaTeX template for your outstanding job application
+  LaTeX template for job application
 </p>
 
 <div align="center">
-  <a href="https://circleci.com/gh/posquit0/Awesome-CV">
-    <img alt="CircleCI" src="https://circleci.com/gh/posquit0/Awesome-CV.svg?style=shield" />
-  </a>
-  <a href="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/CV.pdf">
-    <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+  <a href="https://www.overleaf.com/project/5f3d4d771cf30f0001c5fe7a">
+    <img alt="Overleaf" src="https://img.shields.io/badge/cv-pdf-green.svg"/>
   </a>
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
     <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
+  <a href="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/coverLetter.pdf">
     <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
   </a>
 </div>
 
 <br />
-
-
-## What is Awesome CV?
-
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
-
 
 ## Preview
 
@@ -40,10 +31,14 @@
 You can see [PDF](https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/CV.pdf)
 
 
+|[![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
+
+
 #### Cover Letter
 
 You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
 
+[![Cover Letter](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
 
 ## Quick Start
 
@@ -70,7 +65,7 @@ $ xelatex {your-cv}.tex
 
 You can also store the commands in a file and then run using shell command
 ```bash
-cat cmd.sh
+$cat cmd.sh
 xelatex cv.tex
 xelatex coverLetter.tex
 $ sh cmd.sh
