@@ -35,14 +35,14 @@
 You can see [PDF](https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/CV.pdf)
 
 
-|[![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
+|[![Résumé](https://raw.githubusercontent.com/whatsupabhijit/CV-Using-Latex/master/screenshots/CV.PNG)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
 
 
 #### Cover Letter
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
+You can see [PDF](https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/coverLetter.pdf)
 
-[![Cover Letter](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
+[![Cover Letter](https://raw.githubusercontent.com/whatsupabhijit/CV-Using-Latex/master/screenshots/coverLetter.PNG)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
 
 ## Quick Start
 
