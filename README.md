@@ -1,9 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/whatsupabhijit/CV-Using-Latex" title="Documentation">
-    <img alt="Abhijit Dutta CV" src="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/images/profilpicture.png" width="200px" height="200px" style="border-radius: 50%}"/>
+    <img alt="Abhijit Dutta CV" src="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/images/profilpicture.png" width="200px" height="200px" style="border-radius: 50%"/>
   </a>
   <br />
-  Abhijit Dutta CV
+  Abhijit Dutta CV and Cover Letter
 </h1>
 
 <p align="center">
@@ -11,15 +11,19 @@
 </p>
 
 <div align="center">
+
   <a href="https://www.overleaf.com/project/5f3d4d771cf30f0001c5fe7a">
-    <img alt="Overleaf" src="https://img.shields.io/badge/cv-pdf-green.svg"/>
-  </a>
+    <img alt="Example CV" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fc" />
+  </a>  
+
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
     <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
+
   <a href="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/coverLetter.pdf">
     <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
   </a>
+
 </div>
 
 <br />
@@ -74,6 +78,15 @@ $ sh cmd.sh
 
 This should result in the creation of ``{your-cv}.pdf`` and ``{your-coverletter}.pdf``
 
+
+If you don't know Latex, then you can check the guide under latex folder. Alternatively there is a zipped version also with name ``latex.tar.gz``
+
+You can unzip the tar file with below command
+```bash
+$ tar latex.tar.gz
+```
+
+One pre-requisite for all of this commands to run in windows also is - You need to install CMDER and run all this commands not from cmd but from CMDER.
 
 ## Credit
 

@@ -5,6 +5,5 @@
 *.aux
 *.nav
 *.out
-*.gz
 *.synctex(busy)
 *.synctex
