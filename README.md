@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/whatsupabhijit/CV-Using-Latex" title="Documentation">
-    <img alt="Abhijit Dutta CV" src="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/images/profilpicture.png" width="200px" height="200px" />
+    <img alt="Abhijit Dutta CV" src="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/images/profilpicture.png" width="200px" height="200px" style="border-radius: 50%; img:hover{transform: scaleX(-1);}"/>
   </a>
   <br />
   Abhijit Dutta CV
@@ -85,7 +85,7 @@ This should result in the creation of ``{your-cv}.pdf`` and ``{your-coverletter}
 
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
 
-[**This CV is inspired by the design of [Awesome CV](https://github.com/posquit0/Awesome-CV), [Latex_CV](https://github.com/muratcankaracabey/latex_cv), [Mcdowell-CV](https://github.com/dnl-blkv/mcdowell-cv).
+This CV is inspired by the design of [**Awesome CV**](https://github.com/posquit0/Awesome-CV), [**Latex_CV**](https://github.com/muratcankaracabey/latex_cv), [**Mcdowell-CV**](https://github.com/dnl-blkv/mcdowell-cv).
 
 ## Contact
 
@@ -99,7 +99,7 @@ Good luck!
 
 
 
-### How to use it?
+### How to tweak it?
 - With minimum effort, you can use the [CV.tex](https://github.com/muratcankaracabey/latex_cv/blob/master/CV.tex) as it is provided with the high level functions such as ```\datedexperience```, ```\explanation```, ```\explanationdetail``` to add elements to your CV. You can create skill elements with ```\newcommand{\skillname{\createskill{<Skill Category>}{<explanation>}}}``` and finally create the list of skills with ```\createskills{<comma seperated skills list>}```. 
 - You can also use it for your **cover letter** by just using
   ```
