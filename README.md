@@ -42,7 +42,7 @@ You can see [PDF](https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/C
 
 You can see [PDF](https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/coverLetter.pdf)
 
-[![Cover Letter](https://raw.githubusercontent.com/whatsupabhijit/CV-Using-Latex/master/screenshots/coverLetter.PNG)](https://raw.githubusercontent.com/whatsupabhijit/CV-Using-Latex/master/coverletter.pdf) |
+[![Cover Letter](https://raw.githubusercontent.com/whatsupabhijit/CV-Using-Latex/master/screenshots/coverLetter.PNG)](https://raw.githubusercontent.com/whatsupabhijit/CV-Using-Latex/master/coverLetter.pdf) |
 
 ## Quick Start
 
