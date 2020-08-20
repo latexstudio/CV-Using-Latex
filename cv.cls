@@ -147,11 +147,11 @@ Position: & \@claimedposition \\
 
 \newcommand{\datedexperience}[3]{%
     \begin{small} \explanation{#2}  \company{#1}
-    \end{small} \hfill \datetext{#3}\\[0.01cm]%
+    \end{small} \hfill \datetext{#3}\\[0.09cm]%
 }
 
 \newcommand{\explanationdetail}[1]{%
-    \indent \begin{minipage}{0.96\linewidth} \footnotesize #1 \end{minipage} \\[0.1cm]
+    \indent \begin{minipage}{0.96\linewidth} \footnotesize #1 \end{minipage} \\[0.15cm]
 }
 
 \newcommand{\itemwithtext}[1]{%
