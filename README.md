@@ -16,7 +16,7 @@
     <img alt="Example CV" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fc" />
   </a>  
 
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
+  <a href="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/CV.pdf">
     <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
 
