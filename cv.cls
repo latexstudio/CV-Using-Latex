@@ -137,12 +137,17 @@ Position: & \@claimedposition \\
 {\itshape  \footnotesize \mdseries  \color{black!60!\@themecolor} #1 } 
 }
 
-\newcommand{\datedexperience}[2]{%
-  \begin{small} \mbox { \hspace{1em} \scshape \textbf{#1} } \end{small} \hfill \datetext{#2}\\[0.01cm] %
+\newcommand{\explanation}[1]{%
+    \mbox { \scshape \hspace{1.2em} \footnotesize #1}
 }
 
-\newcommand{\explanation}[1]{%
-    \mbox { \scshape \hspace{1.2em} \footnotesize #1}\\[0.05cm]
+\newcommand{\company}[1]{%
+  \mbox { \hspace{1em} \scshape \textbf{#1} } 
+}
+
+\newcommand{\datedexperience}[3]{%
+    \begin{small} \explanation{#2}  \company{#1}
+    \end{small} \hfill \datetext{#3}\\[0.01cm]%
 }
 
 \newcommand{\explanationdetail}[1]{%

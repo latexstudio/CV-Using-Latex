@@ -18,49 +18,89 @@
 %Sections
 %
 % Summary
-\addblocktext{Summary}{%
-\lipsum[1][1-12]\ %replace this part with actual text
-}
-%
-%Education
-\section{Education} 
-    \datedexperience{Boğaziçi University}{2013-2018} 
-    \explanation{B.S in Computer Engineering} 
-     \explanationdetail{\coloredbullet\ % 
-     \lipsum[1][3-4]\par %replace this part with actual text
-     }
-    \datedexperience{Technical University of Munich}{2019-2022} 
-    \explanation{M.S in Informatics} 
-    \explanationdetail{\coloredbullet\ %
-     \lipsum[1][3-4]\par %replace this part with actual text
-     }
+% \addblocktext{Summary}{%
+% \lipsum[1][1-12] %replace this part with actual text
+% }
+
 %
 % Experience
-\section{Experience}
+\section{Employment}
     %
-    \datedexperience{Intertech Inc.}{2014-Summer / Turkey} 
-    \explanation{Intern as android developer} 
+    \datedexperience{Intertech Inc.}{Intern as android developer}{2014-Summer / Turkey}
+    \explanationdetail{\coloredbullet\ %
+     \lipsum[1][3-4]\par %replace this part with actual text
+     }    
     %
-    \datedexperience{Velocity Inc.}{2015-Summer / Turkey} 
-    \explanation{Intern as Developer/Tester} 
+    \datedexperience{Velocity Inc.}{Intern as Developer/Tester}{2015-Summer / Turkey}
+    \explanationdetail{\coloredbullet\ %
+     \lipsum[1][4-5]\par %replace this part with actual text
+     }    
     %
-    \datedexperience{Akbank}{2018-2019 / Turkey} 
-    \explanation{Ios Developer} 
+    \datedexperience{Akbank}{Ios Developer}{2018-2019 / Turkey} 
     \explanationdetail{\coloredbullet\ %
      \lipsum[1][1-2]\par %replace this part with actual text
      }
     %
-    \datedexperience{Mobile-Software AG}{2019-2020 / Germany} 
-    \explanation{Ios Developer} 
+    \datedexperience{Mobile-Software AG}{Ios Developer}{2019-2020 / Germany} 
     \explanationdetail{\coloredbullet\ %
      \lipsum[1][4-5]\par %replace this part with actual text
      }
     %
-    \datedexperience{BMW Autonomous Driving Campus}{2020-Now / Germany} 
-    \explanation{Working Student} 
+    \datedexperience{BMW Autonomous Driving Campus}{Working Student} {2020-Now / Germany} 
     \explanationdetail{\coloredbullet\ %
      \lipsum[1][3-4]\par %replace this part with actual text
      }
+%
+%Education
+\section{Education} 
+    \datedexperience{Boğaziçi University}{B.S in Computer Engineering}{2013-2018} 
+    \explanationdetail{\coloredbullet\ % 
+     \lipsum[1][3-4]\par %replace this part with actual text
+    }
+    \datedexperience{Technical University of Munich}{M.S in Informatics}{2019-2022} 
+    \explanationdetail{\coloredbullet\ %
+     \lipsum[1][3-4]\par %replace this part with actual text
+    } 
+    
+%
+% Technical Experience
+\section{Technical Experience}
+   \textbf{Projects} 
+    \newcommand{\projectone}{%
+    \lipsum[1][7-8]\par %replace this part with actual text
+    }
+    %
+    \newcommand{\projecttwo}{%
+    \lipsum[1][9-10]\par %replace this part with actual text
+    }
+    %
+    \newcommand{\projectthree}{%
+    \lipsum[1][11-12]%replace this part with actual text
+    }
+    %
+    \newcommand{\listofprojects}{\projectone, \projecttwo, \projectthree}
+    %
+    \createbullets{\listofprojects}    
+    
+%
+% Additional Experience and Awards
+\section{Additional Experience and Awards}
+    \newcommand{\extraone}{%
+    \lipsum[1][7-8]\par %replace this part with actual text
+    }
+    %
+    \newcommand{\extratwo}{%
+    \lipsum[1][9-10]\par %replace this part with actual text
+    }
+    %
+    \newcommand{\extrathree}{%
+    \lipsum[1][11-12]%replace this part with actual text
+    }
+    %
+    \newcommand{\listofextras}{\extraone, \extratwo, \extrathree}
+    %
+    \createbullets{\listofextras}    
+
 %
 % Skills
 \section{Skills}
@@ -76,24 +116,7 @@
     \newcommand{\skillfive}{\createskill{Languages}{\textbf{\emph{Native:}} \ \  Turkish \ \ \textbf{\emph{Fluent:}} \ \ English \ \ \textbf{\emph{Beginner:}} \ \  German }}
     %
     \createskills{\skillone, \skilltwo, \skillthree, \skillfour, \skillfive}
-%
-% Experience
-\section{Extra}
-    \newcommand{\extraone}{%
-    \lipsum[1][7-8]\par %replace this part with actual text
-    }
-    %
-    \newcommand{\extratwo}{%
-    \lipsum[1][9-10]\par %replace this part with actual text
-    }
-    %
-    \newcommand{\extrathree}{%
-    \lipsum[1][11-12]%replace this part with actual text
-    }
-    %
-    \newcommand{\listofextras}{\extraone, \extratwo, \extrathree}
-    %
-    \createbullets{\listofextras}
+
 %
 %Footnote
 \createfootnote
