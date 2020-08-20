@@ -79,12 +79,15 @@ $ sh cmd.sh
 This should result in the creation of ``{your-cv}.pdf`` and ``{your-coverletter}.pdf``
 
 
-If you don't know Latex, then you can check the guide under latex folder. Alternatively there is a zipped version also with name ``latex.tar.gz``
+If you don't know Latex, then you can check the guide under latex folder, index.html file. Alternatively there is a zipped version also with name ``latex.tar.gz``
 
-You can unzip the tar file with below command
+You can download the file instead and unzip the tar file with below command -
 ```bash
 $ tar latex.tar.gz
 ```
+
+Credit: I have taken this guide from [NASA's website](https://www.giss.nasa.gov/tools/latex/ltx-tar.html). 
+
 
 One pre-requisite for all of this commands to run in windows also is - You need to install CMDER and run all this commands not from cmd but from CMDER.
 
