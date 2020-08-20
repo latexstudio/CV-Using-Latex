@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/whatsupabhijit/CV-Using-Latex" title="Documentation">
-    <img alt="Abhijit Dutta CV" src="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/images/profilpicture.png" width="200px" height="200px" style="border-radius: 50%; img:hover{transform: scaleX(-1);}"/>
+    <img alt="Abhijit Dutta CV" src="https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/images/profilpicture.png" width="200px" height="200px" style="border-radius: 50%}"/>
   </a>
   <br />
   Abhijit Dutta CV
