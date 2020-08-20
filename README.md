@@ -61,6 +61,7 @@ At a command prompt, run
 
 ```bash
 $ xelatex {your-cv}.tex
+$ xelatex {your-coverletter}.tex
 ```
 
 You can also store the commands in a file and then run using shell command
@@ -71,7 +72,7 @@ xelatex coverLetter.tex
 $ sh cmd.sh
 ```
 
-This should result in the creation of ``{your-cv}.pdf``
+This should result in the creation of ``{your-cv}.pdf`` and ``{your-coverletter}.pdf``
 
 
 ## Credit
@@ -84,6 +85,7 @@ This should result in the creation of ``{your-cv}.pdf``
 
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
 
+[**This CV is inspired by the design of [Awesome CV](https://github.com/posquit0/Awesome-CV), [Latex_CV](https://github.com/muratcankaracabey/latex_cv), [Mcdowell-CV](https://github.com/dnl-blkv/mcdowell-cv).
 
 ## Contact
 
@@ -94,14 +96,7 @@ If you have any questions, Click [here](https://www.linkedin.com/in/abhijit-dutt
 Good luck!
 
 
-# CV-Using-Latex
 
-
-I have created my CV using this Latex template. This CV is inspired by the design of Awesome CV. I have simplified some of the designs.
-
-
-
-- This CV is inspired by the design of [Awesome CV](https://github.com/posquit0/Awesome-CV), [Latex_CV](https://github.com/muratcankaracabey/latex_cv), [Mcdowell-CV](https://github.com/dnl-blkv/mcdowell-cv). 
 
 
 ### How to use it?
