@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  
+
   [**Edit Résumé**](https://www.overleaf.com/project/5f3d4d771cf30f0001c5fe7a)
 
   <a href="https://twitter.com/EddieNit">
@@ -62,7 +62,9 @@ You can see [PDF](https://github.com/whatsupabhijit/CV-Using-Latex/blob/master/c
 #### Requirements
 
 A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
-You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.). You can also install MiKTex for windows.
+You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.). 
+
+You can also install MiKTex for windows. Open the cv.tex file and cv.cls file. When the cv.tex file window is active choose typeset as XeLaTex and press the green triangle button to generate the pdf.
 
 #### Usage
 

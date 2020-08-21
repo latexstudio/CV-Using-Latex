@@ -138,7 +138,7 @@ Position: & \@claimedposition \\
 }
 
 \newcommand{\explanation}[1]{%
-    \mbox { \scshape \hspace{1.2em} \footnotesize #1}
+    \mbox { \scshape \hspace{1.2em} \footnotesize \textbf{#1}}
 }
 
 \newcommand{\company}[1]{%
@@ -146,12 +146,12 @@ Position: & \@claimedposition \\
 }
 
 \newcommand{\datedexperience}[3]{%
-    \begin{small} \explanation{#2} 
-    \end{small} \hfill \company{#1} \hfill \datetext{#3}\\[0.09cm]%
+    \begin{small} \explanation{#2} \hfill \company{#1} \hfill \datetext{#3}
+    \end{small} \\[0.12cm]%
 }
 
 \newcommand{\explanationdetail}[1]{%
-    \indent \begin{minipage}{0.96\linewidth} \footnotesize #1 \end{minipage} \\[0.15cm]
+    \indent \begin{minipage}{0.96\linewidth} \footnotesize #1 \end{minipage} \\[0.25cm]
 }
 
 \newcommand{\itemwithtext}[1]{%
