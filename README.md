@@ -10,12 +10,11 @@
   LaTeX template for job application
 </p>
 
+
+[**Edit Résumé**](https://www.overleaf.com/project/5f3d4d771cf30f0001c5fe7a)
+
 <div align="center">
-
-  <i class="fas fa-edit">
-    [**Edit Résumé**](https://www.overleaf.com/project/5f3d4d771cf30f0001c5fe7a)
-  </i>
-
+  
   <a href="https://twitter.com/EddieNit">
     <img alt="Example CV" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fc" />
   </a>  
