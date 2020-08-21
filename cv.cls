@@ -146,8 +146,8 @@ Position: & \@claimedposition \\
 }
 
 \newcommand{\datedexperience}[3]{%
-    \begin{small} \explanation{#2}  \company{#1}
-    \end{small} \hfill \datetext{#3}\\[0.09cm]%
+    \begin{small} \explanation{#2} 
+    \end{small} \hfill \company{#1} \hfill \datetext{#3}\\[0.09cm]%
 }
 
 \newcommand{\explanationdetail}[1]{%
