@@ -143,9 +143,15 @@ Good luck!
 #### Resume Checklist
 
 ✅ The resume should be 1 page.  
+
 ✅ Add github link, linkedin link and your online portfolio link.
+
 ✅ In each bullet point in technical experience mention always how much impact it had to the company. Numbers speak a lot. 
+
 ✅ Better to include the keywords from the job description of the company for which you are applying.
+
 ✅ Don't add summary/objective in your CV. Its just waste of your space. Also you are limitting to the roles.
+
 ✅ “I” should not be used.
+
 ✅ Grammatical mistakes and Typos are strict No No.
